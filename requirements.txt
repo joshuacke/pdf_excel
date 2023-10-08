@@ -1,3 +1,2 @@
 pandas
 tabula-py
-openjdk-17-jre
